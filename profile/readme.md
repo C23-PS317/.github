@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Our Team</h2>
-  <table align="center">
+  <table>
     <tr>
       <th>Bangkit ID</th>
       <th>Name</th>
