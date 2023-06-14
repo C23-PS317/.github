@@ -9,12 +9,12 @@
       <th>Learning Path</th>
     </tr>
     <tr>
-      <td>M013DSX2466</td>
+      <td>M181DSY0149</td>
       <td>Ghaitsa Maulidina Shofa</td>
       <td>Machine Learning</td>
     </tr>
     <tr>
-      <td>M181DSY0149</td>
+      <td>M013DSX2466</td>
       <td>Alfidhia Rahman Nasa Juhanda</td>
       <td>Machine Learning</td>
     </tr>
