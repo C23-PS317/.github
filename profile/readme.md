@@ -1,6 +1,6 @@
 # Trackori
 
-<div align="center">
+<div>
   <h2>Our Team</h2>
   <table>
     <tr>
