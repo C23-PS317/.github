@@ -3,7 +3,7 @@
 # Trackori
 
 <div>
-  <h2>Our Team</h2>
+  <h2>Our Team Member</h2>
   <table>
     <tr>
       <th>Bangkit ID</th>
