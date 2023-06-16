@@ -1,6 +1,6 @@
-![Trackori Banner](https://github.com/C23-PS317/.github/blob/main/profile/Trackori%20Banner.jpg?raw=true)
-
 # Trackori
+
+![Trackori Banner](https://github.com/C23-PS317/.github/blob/main/profile/Trackori%20Banner.jpg?raw=true)
 
 <div>
   <h2>Our Team Member</h2>
